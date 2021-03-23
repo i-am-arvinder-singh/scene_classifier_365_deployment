@@ -1,0 +1,7 @@
+Pillow==4.1.1 
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.1+cpu
+torchvision==0.8.2+cpu
+gunicorn==20.0.4
+wget==3.2
+Flask==1.1.2
